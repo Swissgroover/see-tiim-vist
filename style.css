@@ -10,11 +10,19 @@ body{
 
 div {
     display: flex;
-
 }
+
+img{
+    max-width: 100%;  
+  }
+
+  a{
+    color: white;  
+    text-decoration: none;
+  }
+
 .timeTable {
   display: flex;
-  margin-top: 3rem;
   background: white;
   flex-direction: column;
   align-items: center;
@@ -27,8 +35,21 @@ div {
     flex: 1;
     background:#1D5381;
     height: 50px;
-    width: 250px;
-    margin: 1rem;
+    width: 300px;
+    margin: 0.2rem;
+    border-radius: 25px;
+    align-items: center;
+    justify-self: center;
+
+}
+
+.lessonBox2{
+    display: flex;
+    flex: 1;
+    background:#DF771C;
+    height: 50px;
+    width: 300px;
+    margin: 0.2rem;
     border-radius: 25px;
     align-items: center;
     justify-self: center;
@@ -59,17 +80,17 @@ div {
     display: flex;
 }
 
-
-.dropdown_filter{
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 210px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    padding: 20px 16px;
-    z-index: 1;
-}
-
 .filter:hover .dropdown_filter{
     display: flex;
+}
+
+.Day{
+    padding: 15px;
+    font-size: 30px;
+    border: solid 3px #1D5381;
+    background-color: #DF771C; 
+    border-radius: 50%;
+}
+.Days{
+    color:black;  
 }
