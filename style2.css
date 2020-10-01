@@ -92,10 +92,19 @@ img{
     background-color: #DF771C; 
     border-radius: 50%;
 }
+
+.Day2{
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 30px;
+    background-color: #ff9c46; 
+    border-radius: 50%;
+}
 .Days{
     color:black;  
 }
 .Week{
+    justify-content: center;
     background-color:#1D5381;
     color: white;
     font-size: 18px;
@@ -103,3 +112,18 @@ img{
     padding: 10px;
     margin-bottom: 5px;
 }
+
+.Arrow{
+ width:15px;
+ margin-top: 12px;
+ justify-content: center;
+ align-items: center;
+}
+
+.Magni{
+    width:30px;
+    margin-top: 7px;
+    padding-left: 25px;
+    justify-content: center;
+    align-items: center;
+   }
