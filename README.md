@@ -28,11 +28,12 @@ Our goal was to upgrade the commonly used timetable of TAHVEL which has many dis
 ​
 [Figma](https://www.figma.com/file/NFHuAEc0CIifLXgy5Ux3En/tahvel2.0?node-id=0%3A1)
 ​
-## What the TAHVEL consists of?
+## What the upgraded TAHVEL is about?
 Our version of TAHVEL has two different views:
 1. student view
 2. teacher view
 
+Both of the views show the timetable of the ongoing week of your group (being a student) or your schedule (being a teacher), and in case you do not have a class during this week, the week of your next classes are shown.
 
 ## "veebilehe screenshot"
 
