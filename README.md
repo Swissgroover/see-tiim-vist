@@ -6,6 +6,7 @@ We are team **"see-tiim-vist"** :
 
 **_Project manager:_**    Karl Gregor Rauniste TA-19  
 
+
 **_Members:_**   
 
 **Developers:** Erki Leemet TAK-19, Karl Gregor Rauniste TA-19, Karl Kaljulaid TA-20
