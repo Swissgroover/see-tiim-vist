@@ -14,7 +14,7 @@ We are team **"see-tiim-vist"** :
 
 **Github admin:** Andra Vabar TA-20  
 
-**Supervisor:** Oskar Vatsfeldt
+**Supervisor:** Oskar Vatsfeldt TAK-20
 
 **Data Collector:** all team members  
 
