@@ -25,7 +25,7 @@ Our speciality is software developer.
 
 ## Idea of upgrading TAHVEL
 ​
-Our goal was to upgrade the commonly used timetable of TAHVEL which has many disadvantages in terms of user-friendlyness, design, and functionality. The purpose of the project is to develop a better version of the TAHVEL, which would work both in the mobile device and desktop.
+Our goal is to upgrade the commonly used timetable of TAHVEL which has many disadvantages in terms of user-friendlyness, design, and functionality. The purpose of the project is to develop a better version of the TAHVEL, which would work both in the mobile device and desktop.
 
 ## Prototype
 ​
