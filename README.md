@@ -3,16 +3,20 @@
 # Our team
 
 We are team **"see-tiim-vist"** :  
+
 **_Project manager:_**    Karl Gregor Rauniste TA-19  
 
+
 **_Members:_**   
-**Developers:** Erki Leemet TAK-19
-Karl Gregor Rauniste TA-19 
-Karl Kaljulaid TA-20
-**Design:** Eete Rajasalu TA-20
-Rasmus Ling TAK-20
+
+**Developers:** Erki Leemet TAK-19, Karl Gregor Rauniste TA-19, Karl Kaljulaid TA-20
+
+**Design:** Eete Rajasalu TA-20, Rasmus Ling TAK-20
+
 **Github admin:** Andra Vabar TA-20  
-**Supervisor:** Oskar Vatsfeldt
+
+**Supervisor:** Oskar Vatsfeldt TAK-20
+
 **Data Collector:** all team members  
 
 ## Where are we from?
@@ -22,7 +26,7 @@ Our speciality is software developer.
 
 ## Idea of upgrading TAHVEL
 ​
-Our goal was to upgrade the commonly used timetable of TAHVEL which has many disadvantages in terms of user-friendlyness, design, and functionality. The purpose of the project is to develop a better version of the TAHVEL, which would work both in the mobile device and desktop.
+Our goal is to upgrade the commonly used timetable of TAHVEL which has many disadvantages in terms of user-friendlyness, design, and functionality. The purpose of the project is to develop a better version of the TAHVEL, which would work both in the mobile device and desktop.
 
 ## Prototype
 ​
