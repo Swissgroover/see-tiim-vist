@@ -13,11 +13,11 @@ div {
 }
 
 img{
-    max-width: 100%;  
+    max-width: 100%;
   }
 
   a{
-    color: white;  
+    color: white;
     text-decoration: none;
   }
 
@@ -35,7 +35,7 @@ img{
     flex: 1;
     background:#1D5381;
     height: 50px;
-    width: 300px;
+    width: 299px;
     margin: 0.2rem;
     border-radius: 25px;
     align-items: center;
@@ -88,9 +88,9 @@ img{
     padding: 15px;
     font-size: 30px;
     border: solid 3px #1D5381;
-    background-color: #DF771C; 
+    background-color: #DF771C;
     border-radius: 50%;
 }
 .Days{
-    color:black;  
+    color:black;
 }
