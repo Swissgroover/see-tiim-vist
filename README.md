@@ -12,29 +12,27 @@ Karl Kaljulaid TA-20
 **Design:** Eete Rajasalu TA-20
 Rasmus Ling TAK-20
 **Github admin:** Andra Vabar TA-20  
+**Supervisor:** Oskar Vatsfeldt
 **Data Collector:** all team members  
 
 ## Where are we from?
-We are from Estonia and we are learning in Kuressaare Regional Training Centre. 
+All the team members are from Estonia and are learning in Kuressaare Regional Training Centre.
 Our speciality is software developer.
 ​
 
 ## Idea of upgrading TAHVEL
 ​
-Our goal was to make a calculator which would give the user a better understanding of their monthly spendings.   All expenses are divided into different categories.
+Our goal was to upgrade the commonly used timetable of TAHVEL which has many disadvantages in terms of user-friendlyness, design, and functionality. The purpose of the project is to develop a better version of the TAHVEL, which would work both in the mobile device and desktop.
 
 ## Prototype
 ​
-[Figma](https://www.figma.com/proto/E79EiKySk5JltDVhHs77D6/projectv3?node-id=27%3A12&scaling=scale-down)
+[Figma](https://www.figma.com/file/NFHuAEc0CIifLXgy5Ux3En/tahvel2.0?node-id=0%3A1)
 ​
-## What the calculator consists of?
-Our budget is divided into 6 topics:
-1. Income
-2. Home
-3. Shopping
-4. Car
-5. Traveling
-6. Other
+## What the TAHVEL consists of?
+Our version of TAHVEL has two different views:
+1. student view
+2. teacher view
+
 
 ## "veebilehe screenshot"
-https://ta19rauniste.itmajakas.ee/php-server/
+
