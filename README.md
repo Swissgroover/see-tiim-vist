@@ -40,4 +40,4 @@ Our version of TAHVEL has two different views:
 Both of the views show the timetable of the ongoing week of your group (being a student) or your schedule (being a teacher), and in case you do not have a class during this week, the week of your next classes are shown.
 
 ## "veebilehe screenshot"
-
+https://ta19rauniste.itmajakas.ee/SeeTiim/index.html
