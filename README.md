@@ -7,16 +7,14 @@ We are team **"see-tiim-vist"** :
 
 **_Members:_**   
 
-**Developers:** Erki Leemet TAK-19
-Karl Gregor Rauniste TA-19 
-Karl Kaljulaid TA-20
+**Developers:** Erki Leemet TAK-19, Karl Gregor Rauniste TA-19, Karl Kaljulaid TA-20
 
-**Design:** Eete Rajasalu TA-20
-Rasmus Ling TAK-20
+**Design:** Eete Rajasalu TA-20, Rasmus Ling TAK-20
 
 **Github admin:** Andra Vabar TA-20  
 
 **Supervisor:** Oskar Vatsfeldt
+
 **Data Collector:** all team members  
 
 ## Where are we from?
