@@ -164,6 +164,7 @@ a {
     height: 40px;
     width: 200px;
 }
+
 .dropdown-select {
     position: relative;
     margin: 0;
@@ -208,19 +209,21 @@ a {
     background: #444;
 }
 
-.inputDark{
+.inputDark {
     color: white;
     background-color: #1D5381;
     border: none;
     font-size: 18px;
 }
-.inputLight{
+
+.inputLight {
     color: white;
     background-color: #DF771C;
     border: none;
     font-size: 18px;
 }
-::placeholder{
+
+::placeholder {
     font-size: 22px;
     text-align: center;
     color: white;
