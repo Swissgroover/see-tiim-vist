@@ -38,6 +38,7 @@ a {
     border-radius: 25px;
     align-items: center;
     justify-self: center;
+    color:white;
 }
 
 .lessonBox2 {
@@ -50,6 +51,7 @@ a {
     border-radius: 25px;
     align-items: center;
     justify-self: center;
+    color: white;
 }
 
 .lessonInfo {
